@@ -18,8 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <b>HTML</b> para a estruturação do conteúdo.
 - <b>LESS</b> para estilização visual do site.
-- <b>JavaScript</b>
-- <b>Grunt</b> 
+- <b>JavaScript</b> para fazer o sorteio dos números.
+- <b>Grunt</b> para minificação e  otimização do código.
 - <b>Vercel</b> para subir o projeto na web.
 
 ## Projeto
